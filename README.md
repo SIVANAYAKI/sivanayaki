@@ -42,7 +42,7 @@ Uses machine learning to predict the genre of music tracks using extracted audio
 
 ---
 
-### Sample Spotify Webpage Using Figma - UI/UX Design
+### 🎨 Sample Spotify Webpage Using Figma - UI/UX Design
 
 **Description:**
 This project is a creative replica of Spotify’s landing page, designed using Figma as part of a UI/UX design learning exercise. It showcases modern layout structure, visual hierarchy, color schemes, and responsive design principles.
