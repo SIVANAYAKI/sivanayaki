@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adari Sivanayaki
+  # 👋 Hi, I'm Adari Sivanayaki
 
 ### 👩‍💻 I'm a passionate **Software Engineer** & **UI/UX Designer** always exploring new technologies and solving real-world problems.
 
@@ -52,15 +52,6 @@ Uses machine learning to predict the genre of music tracks using extracted audio
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Sivanayaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-> ℹ️ **Note**: Replace `yourusername` with your actual GitHub username in the links above.
 
 ---
 
