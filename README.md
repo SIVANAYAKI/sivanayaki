@@ -1,66 +1,87 @@
-# Hi, I'm [ADARI SIVANAYAKI] 👋
+# 👋 Hi, I'm Adari Sivanayaki
 
+### 👩‍💻 I'm a passionate **Software Engineer** & **UI/UX Designer** always exploring new technologies and solving real-world problems.
 
-
-### I'm a [Bachelor's Degree] passionate about [Software Engineer, UI/UX Designer] and learning new technologies.
-
-Artificial Intelligence & Machine Learning (TensorFlow, PyTorch)
+---
 
 ## 🚀 About Me
-- 🎓 I recently graduated in **[Electronics And Communication]** from **[Dadi Institute of Engineering & Technology]**
-- 💻 Skilled in: [Python, C, Git, Machnie Learning, UI/UX, SQL, HTML]
-- 🌱 Currently learning: [Artificial Intelligence & Machine Learning (TensorFlow, PyTorch)]
-- 📫 How to reach me: [email: sivaniadari2003@gmail.com ; linkedin: www.linkedin.com/in/
-adarisivanayaki]
+
+- 🎓 Graduate in **Electronics and Communication Engineering** from **Dadi Institute of Engineering & Technology**
+- 💻 Skilled in: `Python`, `C`, `SQL`, `HTML`, `Git`, `Machine Learning`, `UI/UX Design`
+- 🌱 Currently exploring: `TensorFlow`, `PyTorch`, `AI-based safety systems`, `IoT Projects`
+- 📫 Connect with me:  
+  [![Email](https://img.shields.io/badge/Email-sivaniadari2003@gmail.com-red?style=flat-square&logo=gmail)](mailto:sivaniadari2003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adari%20Sivanayaki-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/adarisivanayaki)
 
 ---
 
 ## 💼 Projects
 
-### [Project 1 AI BASED WOMEN SAFETY DEVICE WITH INTEGRATED VOICE MONITORING AND FEAR DETECTION MECHANISM]
-- Description
-This project is a smart safety device designed to protect women by continuously monitoring their voice and detecting signs of fear or distress using AI algorithms. It integrates voice analysis and fear detection to trigger real-time alerts to trusted contacts, ensuring timely assistance in emergencies.
-- What it does:
+### 🔐 AI-Based Women Safety Device
 
-Continuously listens for voice commands and emotional cues.
+**Description:**  
+A smart wearable device for women's safety that monitors voice and detects fear/distress using AI algorithms. It sends emergency alerts with location to trusted contacts.
 
-Uses AI-based fear detection to identify distress signals in the user’s voice.
+**What it does:**
+- 🎤 Monitors voice & detects fear patterns
+- 📍 Sends real-time location alerts
+- 📞 Triggers emergency notifications automatically
+- 🔘 Easy-to-use panic interface
 
-Automatically sends alerts (SMS, calls, or notifications) with the user’s location to pre-set emergency contacts.
+---
 
-Provides an easy-to-use interface for quick activation of safety protocols.
+### 🎶 Music Genre Classification using Machine Learning
 
-### [Project 2 MUSIC GENERS USING MACHINe learing with python]
-- Description
-This project uses machine learning algorithms to automatically classify songs into different music genres based on their audio features. Implemented in Python, it analyzes sound patterns to accurately predict the genre of a given music track.
-- What it does:
+**Description:**  
+Uses machine learning to predict the genre of music tracks using extracted audio features.
 
-Extracts audio features like tempo, rhythm, pitch, and timbre from music files.
+**What it does:**
+- 🎧 Extracts audio features: tempo, pitch, rhythm, etc.
+- 🧠 Trains ML models like SVM, Random Forest
+- 🪄 Classifies into genres: Rock, Pop, Jazz, Classical, Hip-Hop
 
-Trains machine learning models (e.g., SVM, Random Forest, or Neural Networks) on labeled datasets of various music genres.
+---
 
-Classifies new songs into genres such as Rock, Jazz, Classical, Pop, Hip-Hop, etc.
+## 🛠️ Skills & Tools
 
-Provides a simple interface to input a music file and get its predicted genre.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sivanayaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+> ℹ️ **Note**: Replace `yourusername` with your actual GitHub username in the links above.
 
 ---
 
 ## 🎓 Education
-**[Bachelor of Technology in Electronics And Communication Engineering]** — [Dadi Institute of Engineering & Technology] (2025)  
-CGPA: [7.39]
 
-**[Diploma in Electronics And Communication Engineering]** — [Rajiv Gandhi RECS Polytechnic College] (2022)  
-CGPA: [8.3]
+- 🎓 **B.Tech in ECE** — Dadi Institute of Engineering & Technology (2025)  
+  CGPA: 7.39
 
-**[Secondary Education]** — [A M A A English Medium High School] (2019)  
-CGPA: [8.0]
+- 🛠️ **Diploma in ECE** — Rajiv Gandhi RECS Polytechnic College (2022)  
+  CGPA: 8.3
 
-## 📫 Contact Me
-- Email: sivaniadari2003@example.com  
-- LinkedIn: [www.linkedin.com/in/
-adarisivanayaki]](https://linkedin.com/in/
-adarisivanayaki)
+- 📘 **Secondary Education** — A M A A English Medium High School (2019)  
+  CGPA: 8.0
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Contact Me
+
+- 📧 Email: sivaniadari2003@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/adarisivanayaki](https://linkedin.com/in/adarisivanayaki)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect with me or check out my projects!*
