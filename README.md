@@ -17,7 +17,7 @@
 
 ## 💼 Projects
 
-### 🔐 AI-Based Women Safety Device
+### 🔐 AI-Based Women Safety Device with Integrated Voice Monitoring and Fear Detection Mechanism
 
 **Description:**  
 A smart wearable device for women's safety that monitors voice and detects fear/distress using AI algorithms. It sends emergency alerts with location to trusted contacts.
